@@ -1,0 +1,17 @@
+{
+  "name": "my-chrome",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export":"next export"
+  },
+  "dependencies": {
+    "antd": "^4.12.2",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
